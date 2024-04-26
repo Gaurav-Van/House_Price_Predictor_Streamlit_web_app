@@ -1,4 +1,4 @@
-# House_Price_Predictor_Streamlit_Heroku
+# House_Price_Predictor_Streamlit_web_app
 </br>
 This Model / Project / Web app predicts the price of a Real Estate property / House on the basis of Features like : (area_type, location, 
 total_sqft, balcony, bathroom, BHK) 
