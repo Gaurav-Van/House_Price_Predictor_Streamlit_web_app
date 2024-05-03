@@ -1,5 +1,7 @@
 # House_Price_Predictor_Streamlit_web_app
-</br>
+<hr>
+<h4>Note: This Repository is required for deployment of this project on Streamlit Cloud.</h4>
+<hr>
 This Model / Project / Web app predicts the price of a Real Estate property / House on the basis of Features like : (area_type, location, 
 total_sqft, balcony, bathroom, BHK) 
 </br></br>
