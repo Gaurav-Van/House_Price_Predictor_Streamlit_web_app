@@ -4,6 +4,8 @@
 <hr>
 Web App Link: https://gaurav-van-house-price-predictor-streamlit-heroku-app-g56zmy.streamlitapp.com/
 <hr>
+Project Repo: https://github.com/Gaurav-Van/Data_Science__Machine_Learning-Projects
+<hr>
 This Model / Project / Web app predicts the price of a Real Estate property / House on the basis of Features like : (area_type, location, 
 total_sqft, balcony, bathroom, BHK) 
 </br></br>
